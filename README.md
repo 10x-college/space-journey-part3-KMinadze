@@ -230,7 +230,7 @@ then add`<a>` tag with href-"menu" and class "cta-button" with cntent inside Eng
 **20. Nano Banana Split**
 
 -   **Image:** `assets/NanoBanana.jpeg`
--   **Ingredients:** Metallic Bananas, Pixelated Cherries, Synth-Cream
+-   **Ingredients:** Metallic Bananas, Pixelated Cherries,Synth-Cream
 -   **Title:** Nano Banana Split
 -   **Description:** Metallic gold bananas with toppings that look like pixel blocks.
 -   **Origin:** CYBERTRON
