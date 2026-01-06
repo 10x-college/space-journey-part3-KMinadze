@@ -336,6 +336,7 @@ h1.glow-text {
   background: radial-gradient(circle at top, #1b2735 0%, #050608 100%);
 }
 
+
 .section-title {
   text-align: center;
   font-family: var(--font-heading);
